@@ -1,6 +1,6 @@
 # Stock Sector Clustering Analysis
 
-Analyze stock sector data and unlock investment insights.
+Analyze historical stock sector data spanning from Jan 2011 to Jun 2011 and unlock investment insights, predicting which sector (primary, secondary and tertiary) represents high risk in terms of investment and the other that will likely to provide greatest rate of return.
 
 ## Overview
 
